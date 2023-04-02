@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Task 1</string>
+    <string-array name="main">
+
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Volume</item>
+
+    </string-array>
+
+    <string-array name="len">
+
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>inches</item>
+        <item>feet</item>
+        <item>miles</item>
+
+    </string-array>
+
+    <string-array name="weight">
+
+        <item>mg</item>
+        <item>gram</item>
+        <item>kg</item>
+        <item>tonne</item>
+        <item>pound</item>
+        <item>ounce</item>
+
+    </string-array>
+
+    <string-array name="vol">
+
+        <item>ml</item>
+        <item>litre</item>
+    </string-array>
+
+
+
+
+</resources>
